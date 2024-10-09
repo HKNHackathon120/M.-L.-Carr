@@ -15,7 +15,7 @@ Enter Ethan Bridgewell, a modern-day electrical engineering student and devoted 
 Together, Ethan and Maurice explored the history of HKN and the technological advances that made time travel possible. They discovered that Dean Stone’s device was based on principles of quantum mechanics and electrical engineering—fields Maurice himself had helped advance through his early work.
 Maurice’s understanding of electrical engineering, combined with Ethan’s knowledge of modern technology, enabled them to formulate a plan to recreate the time-travel device. Their mission was clear: return Maurice to 1906, stop Dean Stone, and secure the future of HKN.
 
-### 🏁 Challenge Three: Triumph and Legacy
+### 🏁 Triumph and Legacy
 After months of intense work, Maurice and Ethan succeeded in activating the device. Maurice was transported back to 1906, arriving just in time to thwart Dean Stone’s interference. Armed with knowledge of his future impact, Maurice intensified his efforts to establish HKN as a beacon of excellence. His persistence paid off, and the Beta Chapter was reinstated, allowing HKN to continue its growth.
 Under Maurice’s leadership, HKN thrived, eventually becoming an international organization affiliated with the Institute of Electrical and Electronics Engineers (IEEE). It grew to include over 200,000 members in chapters worldwide. Maurice’s vision of a society that recognized both academic achievement and impeccable character had become a reality.
 
