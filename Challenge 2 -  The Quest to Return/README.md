@@ -82,8 +82,7 @@ The solution will be evaluated base on the following criteria:
 
 ## Submission
 
-To complete the challenge, use [this form]() to submit a `.zip` file containing:
+To complete the challenge, use [this form](https://docs.google.com/forms/d/e/1FAIpQLScQSriIi1Nk3k5OVk_Ll3lNKxBhL9EkFtmgQOs6W2qZLcUKzw/viewform?usp=sf_link) to submit a `.zip` file containing:
 - power Spectrum Plots for Original and Filtered Signals
 - audio files of original and filtered signals
-- short Explanations (2-3 sentences) of each filter and it’s intended objective
 - MATLAB Code
